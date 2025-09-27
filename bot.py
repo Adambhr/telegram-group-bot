@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # قراءة التوكن من متغير البيئة (أو ضع التوكن مباشرة هنا)
-TOKEN = os.getenv("TOKEN", "YOUR_TOKEN_HERE")
+TOKEN = os.getenv("8341027913:AAFOh6mr3VNrD2XMOFRrYqes_c0wmQZ86CI")
 
 # ملف النقاط
 POINTS_FILE = "points.json"
